@@ -8,7 +8,7 @@ public class Example {
 
     @RequestMapping("/CC")
     String home() {
-        return "Hello World!6";
+        return "Hello World!7";
     }
 
 }
